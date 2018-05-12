@@ -1,0 +1,38 @@
+_repo: On-The-Principles-of-Political-Economy-and-Taxation_33310
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ricardo, David
+    birthdate: 1772
+    deathdate: 1823
+    gutenberg_agent_id: '36323'
+    url: http://www.gutenberg.org/2009/agents/36323
+description: ''
+gutenberg_issued: '2010-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33310'
+  lccn: '18015237'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Economics'
+- !lcc 'HB'
+tableOfContents: On value -- On rent -- On the rent of mines -- On natural and market
+  price -- On wages -- On profits -- On foreign trade -- On taxes -- Taxes on raw
+  produce -- Taxes on rent -- Tithes -- Land-tax -- Taxes on gold -- Taxes on houses
+  -- Taxes on profits -- Taxes on wages -- Taxes on other commodities than raw produce
+  -- Poor rates -- On sudden changes in the channels of trade -- Value and riches,
+  their distinctive properties -- Effects of accumulation on profits and interest
+  -- Bounties on exportation, and prohibitions of importation -- On bounties on production
+  -- Doctrine of Adam Smith concerning the rent of land -- On colonial trade -- On
+  gross and net revenue -- On currency and banks -- On the comparative value of gold,
+  corn, and labour, in rich and in poor countries -- Taxes paid by the producer --
+  On the influence of demand and supply on prices -- Mr. Malthus's opinions on rent.
+title: On The Principles of Political Economy, and Taxation
+url: http://www.gutenberg.org/ebooks/33310

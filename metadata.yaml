@@ -25,6 +25,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Economics'
 - !lcc 'HB'
+- GITenberg
 tableOfContents: On value -- On rent -- On the rent of mines -- On natural and market
   price -- On wages -- On profits -- On foreign trade -- On taxes -- Taxes on raw
   produce -- Taxes on rent -- Tithes -- Land-tax -- Taxes on gold -- Taxes on houses
